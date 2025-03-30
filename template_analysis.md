@@ -9,11 +9,38 @@ Markdown Table
 | Team Planning     | Backlog, Ready, In Progress | Supports milestones                  | High               | Sprint planning         |
 
 
-**Selected Template:** Automated Kanban
 
-**Justification:**
-1. Perfect for our 2-week sprints from Assignment 6
-2. Automatic status updates save manual work
-3. Easy to customize with additional columns
-4. Direct integration with our GitHub issues
-5. Supports WIP limits for better workflow control
+
+
+Justification for Selecting Automated Kanban
+For our Health Tracker System, I recommend the Automated Kanban template because:
+
+Agile Alignment:
+
+Perfectly matches our sprint-based workflow from Assignments 5-6
+
+Supports continuous delivery of features like step tracking and data visualization
+
+Time-Saving Automation:
+
+Automatic movement of issues between columns (e.g., moves to "Done" when PRs are merged)
+
+Reduces manual board maintenance for our small team
+
+Customization Potential:
+
+Easily adaptable to add columns like "Testing" and "Blocked"
+
+Supports labeling system for features (US-001 to US-010) and bugs
+
+Integration Benefits:
+
+Directly links to our existing GitHub Issues for user stories
+
+Shows real-time development progress without additional tools
+
+Visual Clarity:
+
+Clear workflow stages match our development process
+
+Enforces WIP limits to prevent bottlenecks in our 2-week sprints
