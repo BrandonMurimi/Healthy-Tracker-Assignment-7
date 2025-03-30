@@ -15,31 +15,31 @@ Markdown Table
 Justification for Selecting Automated Kanban
 For our Health Tracker System, I recommend the Automated Kanban template because:
 
-Agile Alignment:
+1-Agile Alignment:
 
 Perfectly matches our sprint-based workflow from Assignments 5-6
 
 Supports continuous delivery of features like step tracking and data visualization
 
-Time-Saving Automation:
+2-Time-Saving Automation:
 
 Automatic movement of issues between columns (e.g., moves to "Done" when PRs are merged)
 
 Reduces manual board maintenance for our small team
 
-Customization Potential:
+3-Customization Potential:
 
 Easily adaptable to add columns like "Testing" and "Blocked"
 
 Supports labeling system for features (US-001 to US-010) and bugs
 
-Integration Benefits:
+4-Integration Benefits:
 
 Directly links to our existing GitHub Issues for user stories
 
 Shows real-time development progress without additional tools
 
-Visual Clarity:
+5-Visual Clarity:
 
 Clear workflow stages match our development process
 
