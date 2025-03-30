@@ -1,4 +1,4 @@
-Markdown Table
+Comparison table and justification.
 
 
 | Template          | Columns                     | Automation Features                  | Agile Suitability | Best For                |
