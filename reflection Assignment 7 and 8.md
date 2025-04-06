@@ -21,7 +21,12 @@
 
 **Conclusion:** GitHub Projects provides the best balance for our needs with its native integration and sufficient Agile features.
 
-**Assignment 8 Reflection **
+
+
+
+
+
+## Assignment 8 Reflection
 
 In-Depth Reflection on Workflow Modeling
 1. Granularity Challenges: Striking the Right Balance
